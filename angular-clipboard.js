@@ -99,3 +99,5 @@ return angular.module('angular-clipboard', [])
     }]);
 
 }));
+
+module.exports = 'angular-clipboard';
